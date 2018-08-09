@@ -2,7 +2,7 @@
 
 # create a random id
 resource "random_id" "pt_bucket_id" {
-    byte_length = 3
+    byte_length = 2
 }
 
 # create the bucket

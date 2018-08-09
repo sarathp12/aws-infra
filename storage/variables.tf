@@ -1,3 +1,3 @@
 variable "project_name" {
-     default = "pardha_tf"
+     default = "pardha-terraform"
 }
