@@ -1,3 +1,2 @@
-variable "project_name" {
-     default = "pardha-terraform"
-}
+variable "project_name" {}
+     
